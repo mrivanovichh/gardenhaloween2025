@@ -10,9 +10,9 @@ Ilydan,0
 AustriVestri,2
 Alisson2020,2
 -NEUM-,0
-Skyler,1
-TeiStie,2
-Lulu Esthar,2
+Skyler,0
+TeiStie,0
+Lulu Esthar,0
 Hgoo,0
-AlastorRng,2
-Shion_Mizuki,2
+AlastorRng,0
+Shion_Mizuki,0
