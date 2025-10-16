@@ -1,7 +1,7 @@
 ArtSot,1
 [1] Local Player,0
 Otro,2
-mrivanovichh,3
+mrivanovichh,0
 Estebantby,0
 dracovishjoe,0
 Rafi77,2
@@ -19,6 +19,7 @@ Shion_Mizuki,2
 CamiLatte,0
 -Yamamura-,2
 Nøŧ Arnø,0
+
 
 
 
